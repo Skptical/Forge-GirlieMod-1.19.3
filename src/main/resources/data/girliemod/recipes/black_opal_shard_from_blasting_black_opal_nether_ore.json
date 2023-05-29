@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "girliemod:nether_black_opal_ore"
+  },
+  "result": "girliemod:black_opal_shard",
+  "experience": 0.7,
+  "cookingtime": 100
+}
+

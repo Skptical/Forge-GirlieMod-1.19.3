@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "girliemod:black_opal_shard"
+    }
+  },
+  "result": {
+    "item": "girliemod:black_opal_gem"
+  }
+}

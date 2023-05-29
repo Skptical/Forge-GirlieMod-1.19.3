@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "girliemod:black_opal_gem"
+    }
+  ],
+  "result": {
+    "item": "girliemod:black_opal_shard",
+    "count": 4
+  }
+}
+

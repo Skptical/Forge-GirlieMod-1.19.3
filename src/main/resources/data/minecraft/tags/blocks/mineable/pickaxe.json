@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "girliemod:black_opal_ore",
+    "girliemod:black_opal_block",
+    "girliemod:deepslate_black_opal_ore",
+    "girliemod:nether_black_opal_ore",
+    "girliemod:end_black_opal_ore"
+  ]
+}

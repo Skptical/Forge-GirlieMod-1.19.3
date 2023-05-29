@@ -18,6 +18,7 @@ public class ModItems {
 
     public static ModdedItem BLACK_OPAL_SHARD = new ModdedItem("black_opal_shard");
     public static ModdedItem RAW_BLACK_OPAL = new ModdedItem("raw_black_opal");
+    public static ModdedItem BLACK_OPAL_GEM = new ModdedItem("black_opal_gem");
 
 
     public static void register(IEventBus eventbus){
